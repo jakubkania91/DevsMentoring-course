@@ -27,3 +27,11 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/misc.xml
+
+Course1.iml
+
