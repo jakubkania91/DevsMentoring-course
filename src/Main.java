@@ -1,7 +1,13 @@
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        int number = 10;
-        System.out.println(number -= 5);
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Podaj swoj wzrost: ");
+        int height = scanner.nextInt();
+
+        System.out.println("Masz: " + height + " wzrostu");
+
     }
 }
 
