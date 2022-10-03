@@ -1,3 +1,5 @@
+package com.devsmentoring.mytrials;
+
 public class MyTrialBoard {
     public static void main(String[] args) {
         String[] myArray = new String[3];

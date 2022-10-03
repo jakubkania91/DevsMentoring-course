@@ -1,3 +1,5 @@
+package com.devsmentoring.module4;
+
 import java.util.Random;
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+package com.devsmentoring.module3;
+
 import java.util.Scanner;
 
 public class FizzBuzz {
@@ -7,7 +9,7 @@ public class FizzBuzz {
         int number = scaner.nextInt();
 
         if (number % 3 == 0 && number % 4 == 0) {
-            System.out.println("FizzBuzz");
+            System.out.println("com.devsmentoring.module3.FizzBuzz");
         } else if (number % 4 == 0) {
             System.out.println("Buzz");
         } else if (number % 3 == 0) {

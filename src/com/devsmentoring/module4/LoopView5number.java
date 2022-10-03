@@ -1,3 +1,5 @@
+package com.devsmentoring.module4;
+
 public class LoopView5number {
 
     public static void main(String[] args) {
