@@ -1,3 +1,5 @@
+package com.devsmentoring.mytrials;
+
 public class MyTrials2 {
     public static void main(String[] args) {
         String[] names = {"Mariusz", "Dominik", "Kasia", "Asia"};

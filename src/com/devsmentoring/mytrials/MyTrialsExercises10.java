@@ -1,3 +1,5 @@
+package com.devsmentoring.mytrials;
+
 import java.util.Random;
 import java.util.Scanner;
 

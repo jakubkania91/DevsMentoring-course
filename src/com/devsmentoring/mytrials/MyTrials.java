@@ -1,3 +1,5 @@
+package com.devsmentoring.mytrials;
+
 public class MyTrials {
 
     public static void main(String[] args) {

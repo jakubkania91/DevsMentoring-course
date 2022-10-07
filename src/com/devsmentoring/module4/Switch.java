@@ -1,3 +1,5 @@
+package com.devsmentoring.module4;
+
 public class Switch {
     public static void main(String[] args) {
         String zodiacSign = "lion";

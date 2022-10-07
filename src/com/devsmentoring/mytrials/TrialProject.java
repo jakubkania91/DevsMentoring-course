@@ -1,3 +1,5 @@
+package com.devsmentoring.mytrials;
+
 import java.time.LocalDate;
 
 public class TrialProject {

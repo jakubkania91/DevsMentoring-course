@@ -1,3 +1,5 @@
+package com.devsmentoring.module3;
+
 public class ValueChecker {
     public static void main(String[] args) {
         int value = 99;

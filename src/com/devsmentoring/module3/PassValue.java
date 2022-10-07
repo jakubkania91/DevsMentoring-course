@@ -1,3 +1,5 @@
+package com.devsmentoring.module3;
+
 import java.util.Scanner;
 
 public class PassValue {

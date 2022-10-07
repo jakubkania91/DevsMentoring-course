@@ -1,3 +1,5 @@
+package com.devsmentoring.mytrials;
+
 import static java.lang.System.out;
 
 public class MySeconLoop {

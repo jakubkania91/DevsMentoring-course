@@ -1,3 +1,5 @@
+package com.devsmentoring.module4;
+
 public class InstructionOperation {
     public static void main(String[] args) {
         String companyName = "Devs-Mentoring", brandName = "Devs-Hunting";
